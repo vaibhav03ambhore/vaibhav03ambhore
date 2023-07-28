@@ -1,8 +1,8 @@
 ### Hi there 👋
 🔭 I’m currently working on DSA
-- 🌱 I’m currently learning web-development
+- 🌱 I’m currently learning React
 - 👯 I’m looking to work on web-dev. projects
-- 💬 Ask me about C , C++ , DSA.
+- 💬 Ask me about C , C++ , DSA, front-end-dev.
 - 📫 How to reach me: Email-vaibhavambhore803@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: code_lover
