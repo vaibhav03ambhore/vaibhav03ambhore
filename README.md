@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### Hi there 👋
-🔭 I’m currently working on Backend Development
 - 🌱 I’m currently learning Node.js
+- 🔭 I’m currently working on Backend Development
 - 👯 I’m looking to work on web-dev,javascript projects
 - 💬 Ask me about C , C++ , DSA, front-end-dev.
 - 📫 How to reach me: Email-vaibhavambhore803@gmail.com
