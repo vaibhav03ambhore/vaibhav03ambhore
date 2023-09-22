@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on DSA
-- 🌱 I’m currently learning React
-- 👯 I’m looking to work on web-dev. projects
+🔭 I’m currently working on Backend Development
+- 🌱 I’m currently learning Node.js
+- 👯 I’m looking to work on web-dev,javascript projects
 - 💬 Ask me about C , C++ , DSA, front-end-dev.
 - 📫 How to reach me: Email-vaibhavambhore803@gmail.com
 - 😄 Pronouns: he/him
