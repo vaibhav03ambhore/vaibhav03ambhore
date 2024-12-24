@@ -1,12 +1,13 @@
 # 💫 About Me:
 ### Hi there 👋
-- 🌱 I’m currently learning Node.js
-- 🔭 I’m currently working on Backend Development
-- 👯 I’m looking to work on web-dev,javascript projects
-- 💬 Ask me about C , C++ , DSA, front-end-dev.
+- 🌱 I’m currently learning DevOps
+- 🔭 I’m currently working on Machine Learning 
+- 👯 I’m looking to work on web-dev, MERN projects
+- 💬 Ask me about C , C++ , DSA, MERN, GIT, Computer Networking.
 - 📫 How to reach me: Email-vaibhavambhore803@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: code_lover
+- NICK NAME: CODE_BRO
 
 <!--
 **vaibhav03ambhore/vaibhav03ambhore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
